@@ -1,5 +1,15 @@
 # FastFetch Config
 
+Fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way.
+
+## Installing Fastfetch
+
+```
+brew install fastfetch
+```
+
+## Theme Config file
+
 ```
 //{
 //  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
