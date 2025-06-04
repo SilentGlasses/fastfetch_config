@@ -1,6 +1,9 @@
 # FastFetch Config
 
-Fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way.
+Fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way. What it looks like in my Warp terminal.
+
+<img width="850" alt="neural_nebula_dark" src="https://github.com/user-attachments/assets/85c1c1eb-40b1-4e4a-be2d-eac749e30965" />
+
 
 ## Installing Fastfetch
 
